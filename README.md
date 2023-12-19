@@ -7,7 +7,7 @@ Esta descripción presenta una visión general de las habilidades, experiencia y
 ---
 ---
 
-## Labores con Álbebra Líneal, Sure Tomorrow
+## Predicciones con Álbebra Líneal, Sure Tomorrow
 
 La compañía de seguros **Sure Tomorrow** quiere resolver varias tareas con la ayuda de machine learning y nos pide que evaluemos esa posibilidad.
 
