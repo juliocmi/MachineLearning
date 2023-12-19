@@ -7,6 +7,35 @@ Esta descripción presenta una visión general de las habilidades, experiencia y
 ---
 ---
 
+## Métodos Numéricos, Rusty Bargain
+
+**Rusty Bargain** es un servicio de venta de coches de segunda mano que está desarrollando una app para atraer a nuevos clientes. Gracias a esa app, puedes averiguar rápidamente el valor de mercado de tu coche. Tienes acceso al historial, especificaciones técnicas, versiones de equipamiento y precios. Tienes que crear un modelo que determine el valor de mercado.
+
+A Rusty Bargain le interesa:
+- la calidad de la predicción
+- la velocidad de la predicción
+- el tiempo requerido para el entrenamiento
+
+**Instrucciones del Proyecto**
+
+- Descargar y examinar los datos.
+- Entrenar diferentes modelos con varios hiperparámetros (debemos hacer al menos dos modelos diferentes, pero más es mejor. Hacer varias implementaciones de potenciación del gradiente no cuentan como modelos diferentes). El punto principal de este paso es comparar métodos de potenciación del gradiente con bosque aleatorio, árbol de decisión y regresión lineal.
+- Analiza la velocidad y la calidad de los modelos.
+
+**Observaciones:**
+
+- Utiliza la métrica RECM para evaluar los modelos.
+- La regresión lineal no es muy buena para el ajuste de hiperparámetros, pero es perfecta para hacer una prueba de cordura de otros métodos. Si la potenciación del gradiente funciona peor que la regresión lineal, definitivamente algo salió mal.
+- Aprender por propia cuenta sobre la librería LightGBM y sus herramientas para crear modelos de potenciación del gradiente (gradient boosting).
+- Idealmente, el proyecto debe tener regresión lineal para una prueba de cordura, un algoritmo basado en árbol con ajuste de hiperparámetros (preferiblemente, bosque aleatorio), LightGBM con ajuste de hiperparámetros (probar un par de conjuntos), y CatBoost y XGBoost con ajuste de hiperparámetros (opcional).
+- Tomar nota de la codificación de características categóricas para algoritmos simples. LightGBM y CatBoost tienen su implementación, pero XGBoost requiere OHE.
+- Dado que el entrenamiento de un modelo de potenciación del gradiente puede llevar mucho tiempo, cambiaremos solo algunos parámetros del modelo.
+
+  [Ir al Proyecto]()
+
+---
+---
+
 ## Predicciones con Álbebra Líneal, Sure Tomorrow
 
 La compañía de seguros **Sure Tomorrow** quiere resolver varias tareas con la ayuda de machine learning y nos pide que evaluemos esa posibilidad.
