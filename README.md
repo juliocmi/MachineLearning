@@ -25,7 +25,7 @@ Es necesario desarrollar un algoritmo de transformación de datos que dificulte 
 - Trabaja en cada tarea y responde las preguntas planteadas en la plantilla del proyecto.
 - Saca conclusiones basadas en tu experiencia trabajando en el proyecto.
 
-[Ir al Proyecto]()
+[Ir al Proyecto](https://github.com/juliocmi/MachineLearning/blob/main/ML_Projects/Zyfra_ML_Project.ipynb)
 
 ---
 ---
