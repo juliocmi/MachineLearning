@@ -21,4 +21,4 @@ Tendremos que:
 - Realizar el análisis de datos;
 - Desarrollar un modelo y entrenarlo.
 
-[Ir al Proyecto]()
+[Ir al Proyecto](https://github.com/juliocmi/MachineLearning/blob/main/ML_Projects/Zyfra_ML_Project.ipynb)
