@@ -31,7 +31,7 @@ A Rusty Bargain le interesa:
 - Tomar nota de la codificación de características categóricas para algoritmos simples. LightGBM y CatBoost tienen su implementación, pero XGBoost requiere OHE.
 - Dado que el entrenamiento de un modelo de potenciación del gradiente puede llevar mucho tiempo, cambiaremos solo algunos parámetros del modelo.
 
-  [Ir al Proyecto]()
+  [Ir al Proyecto](https://github.com/juliocmi/MachineLearning/blob/main/ML_Projects/Me%CC%81todos%20Nume%CC%81ricos.ipynb)
 
 ---
 ---
