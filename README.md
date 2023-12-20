@@ -18,7 +18,7 @@ La compañía **Sweet Lift Taxi** ha recopilado datos históricos sobre pedidos 
 - Entrena diferentes modelos con diferentes hiperparámetros. La muestra de prueba debe ser el 10% del conjunto de datos inicial.
 - Prueba los datos usando la muestra de prueba y proporciona una conclusión.
 
-[Ir al Proyecto]()
+[Ir al Proyecto](https://github.com/juliocmi/MachineLearning/blob/main/Time%20Series/Sprint%2013%20Series%20Temporales.ipynb)
 
 ---
 ---
