@@ -7,7 +7,7 @@ Esta descripción presenta una visión general de las habilidades, experiencia y
 ---
 ---
 
-## Métodos Numéricos, Rusty Bargain
+## Proyecto || Métodos Numéricos, Rusty Bargain
 
 **Rusty Bargain** es un servicio de venta de coches de segunda mano que está desarrollando una app para atraer a nuevos clientes. Gracias a esa app, puedes averiguar rápidamente el valor de mercado de tu coche. Tienes acceso al historial, especificaciones técnicas, versiones de equipamiento y precios. Tienes que crear un modelo que determine el valor de mercado.
 
@@ -36,7 +36,7 @@ A Rusty Bargain le interesa:
 ---
 ---
 
-## Predicciones con Álbebra Líneal, Sure Tomorrow
+## Proyecto || Predicciones con Álbebra Líneal, Sure Tomorrow
 
 La compañía de seguros **Sure Tomorrow** quiere resolver varias tareas con la ayuda de machine learning y nos pide que evaluemos esa posibilidad.
 
@@ -59,7 +59,7 @@ Es necesario desarrollar un algoritmo de transformación de datos que dificulte 
 ---
 ---
 
-## Predicción de la Cantidad de Oro, Zyfra Corporation
+## Proyecto || Predicción de la Cantidad de Oro, Zyfra Corporation
 
 Ha llegado la hora de abordar un problema real de ciencia de datos que proviene del ámbito de la minería del oro. Este proyecto fue proporcionado por Zyfra Corporation.
 
