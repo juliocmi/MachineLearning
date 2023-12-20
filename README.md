@@ -7,6 +7,22 @@ Esta descripción presenta una visión general de las habilidades, experiencia y
 ---
 ---
 
+## Proyecto || Predicción de Tiempo, Sweet Lift Taxi
+
+La compañía **Sweet Lift Taxi** ha recopilado datos históricos sobre pedidos de taxis en los aeropuertos. Para atraer a más conductores durante las horas pico, necesitamos predecir la cantidad de pedidos de taxis para la próxima hora. Debemos construir un modelo para dicha predicción. La métrica RECM en el conjunto de prueba no debe ser superior a 48.
+
+**Instrucciones del Proyecto**
+
+- Descarga los datos y haz el remuestreo por una hora.
+- Analiza los datos.
+- Entrena diferentes modelos con diferentes hiperparámetros. La muestra de prueba debe ser el 10% del conjunto de datos inicial.
+- Prueba los datos usando la muestra de prueba y proporciona una conclusión.
+
+[Ir al Proyecto]()
+
+---
+---
+
 ## Proyecto || Métodos Numéricos, Rusty Bargain
 
 **Rusty Bargain** es un servicio de venta de coches de segunda mano que está desarrollando una app para atraer a nuevos clientes. Gracias a esa app, puedes averiguar rápidamente el valor de mercado de tu coche. Tienes acceso al historial, especificaciones técnicas, versiones de equipamiento y precios. Tienes que crear un modelo que determine el valor de mercado.
